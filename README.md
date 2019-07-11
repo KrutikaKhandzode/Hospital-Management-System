@@ -19,9 +19,3 @@ Hospital Management Systems provide different health care organizations and prof
 
 
 These Systems largely enhance information integrity and reduce transcription errors and duplication of information entries. Hospital Management Systems must be easy to use and eliminate errors caused by handwriting.
-
-
-This was developed as a submission for a school project in grade 12 by:
-1. Bhavya Chopra
-
-2. Devansh Agrawal
